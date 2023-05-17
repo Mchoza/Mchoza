@@ -61,3 +61,5 @@
 </picture>
 
 ###
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mchoza&range=all_time&theme=synthwave&custom_title=Coding&layout=compact&hide_border=true)](https://wakatime.com/@mchoza)
