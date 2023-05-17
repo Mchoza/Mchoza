@@ -17,11 +17,11 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
-<p align="left">My name is Maria<br>I'm a Web Development Student - from Spain</p>
+<p align="center">My name is Maria<br>I'm a Web Development Student - from Spain</p>
 
 ###
 
